@@ -2,3 +2,5 @@
 
 fetch 
 fetch
+
+pull --rebase
